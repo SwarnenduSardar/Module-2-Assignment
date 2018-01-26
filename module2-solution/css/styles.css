@@ -31,7 +31,7 @@ section{
 	border: 1px solid black;
 	background-color: #6AF2E9;
 	width: 100%;
-	height: 200px;
+	height: auto;
 	font-family: Helvetica;
 	color: black;
 	position: relative;
